@@ -13,7 +13,7 @@
       "slices": {
         "type": "Slices",
         "fieldset": "Slice Zone",
-        "config": { "choices": {} }
+        "config": { "choices": { "hero": { "type": "SharedSlice" } } }
       }
     },
     "SEO & Metadata": {
